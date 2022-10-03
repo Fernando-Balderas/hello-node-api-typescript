@@ -1,6 +1,10 @@
 # Hello Node API Typescript
 
-### Steps
+## Run app
+yarn build
+yarn start
+
+### Steps to create this app
 ```bash
 mkdir project-folder
 cd project-folder
